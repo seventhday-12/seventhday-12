@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 我是**初柒**
-- 是一名入行不久的前端程序员
+- 前端开发
 - 保持热爱，奔赴山海
 <!--
 **seventhday-12/seventhday-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
